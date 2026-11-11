@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow_pulling_0",
+  "textures": {
+    "layer0": "luckymod:item/lucky_bow_pulling_0"
+  }
+}

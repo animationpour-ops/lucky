@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="All-Rights-Reserved"
+
+[[mods]]
+modId="luckymod"
+version="1.0.0"
+displayName="Lucky Brush"
+description='''
+Brush lucky, outils et armure Lucky (texture portail de l'End en vert), 2 pouvoirs par objet, gros VFX.
+Projet perso pour le fun.
+'''
+
+[[dependencies.luckymod]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.luckymod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
